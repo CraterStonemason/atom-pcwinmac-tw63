@@ -1,4 +1,4 @@
-# 
+# Updated Atom themes for Mac OS | VIP Atom themes for PC Windows. Featuring syntax-highlighting and SQL-debugging — optimized for maximum performance on every platform.
 
 
 
